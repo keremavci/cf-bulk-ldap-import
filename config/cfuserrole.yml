@@ -1,0 +1,32 @@
+---
+organizations:
+ - name: PROD
+   spaces: 
+    - space: account
+      groups:
+      - Account Developers
+      - Devops
+      roles:
+      - SpaceAuditor
+      excludefromspace:
+      - SysAdmins
+    - space: framework
+      groups:
+        - Devops
+      roles:
+        - SpaceDeveloper
+ - name: TEST
+   spaces: 
+    - space: account
+      groups:
+      - Account Developers
+      - Devops
+      roles:
+      - SpaceDeveloper
+      excludefromspace:
+      - SysAdmins
+    - space: framework
+      groups:
+        - Devops
+      roles:
+        - SpaceDeveloper

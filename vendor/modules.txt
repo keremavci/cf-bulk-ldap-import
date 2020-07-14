@@ -1,0 +1,10 @@
+# github.com/Azure/go-ntlmssp v0.0.0-20200615164410-66371956d46c
+github.com/Azure/go-ntlmssp
+# github.com/go-asn1-ber/asn1-ber v1.5.1
+github.com/go-asn1-ber/asn1-ber
+# github.com/go-ldap/ldap/v3 v3.2.2
+github.com/go-ldap/ldap/v3
+# golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
+golang.org/x/crypto/md4
+# gopkg.in/yaml.v2 v2.3.0
+gopkg.in/yaml.v2
